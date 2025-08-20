@@ -21,7 +21,7 @@ public class StudentManager {
         ArrayList<Student> students = new ArrayList<>();
         String continueInput;
 
-        System.out.println("||| Student Data Management System |||");
+        System.out.println("|||| Student Data Management System ||||");
 
         do {
             //This gets and uset a custom validation helper for student name
