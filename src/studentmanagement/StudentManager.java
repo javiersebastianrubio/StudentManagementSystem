@@ -38,7 +38,7 @@ public class StudentManager {
             students.add(newStudent);
             
             //checking for new entries
-            System.out.print("Do you want to enter another student? (yes/no): ");
+            System.out.print("Do you want to enter another student? please write yes/no: ");
             continueInput = scanner.next().toLowerCase();
             scanner.nextLine(); // Consume the leftover newline character
 
@@ -229,7 +229,7 @@ public class StudentManager {
             writer.println("========== END OF REPORT ==========");
 
         } catch (IOException e) {
-            System.out.println("An happened while the report was being generated: " + e.getMessage());
+            System.out.println("An error happened while the report was being generated: " + e.getMessage());
         }
     }    
 }
