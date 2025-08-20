@@ -13,6 +13,8 @@ import java.io.*;
  */
 public class StudentManager {
     
+// GitHub Repo Link: https://github.com/javiersebastianrubio/StudentManagementSystem    
+    
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
