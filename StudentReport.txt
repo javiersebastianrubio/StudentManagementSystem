@@ -1,0 +1,9 @@
+========== STUDENT REPORT ==========
+Sorted by Average Grade (Descending Order)
+------------------------------------
+Name: Johny Perez, Age: 27, Grades: 85, 70, 46, 40, 75, Average: 63.20
+Name: Javier Rubio, Age: 27, Grades: 55, 40, 60, 70, 80, Average: 61.00
+Name: George Clooney, Age: 18, Grades: 44, 40, 75, 64, 68, Average: 58.20
+------------------------------------
+Highest Grade in the Dataset: 85
+========== END OF REPORT ==========
